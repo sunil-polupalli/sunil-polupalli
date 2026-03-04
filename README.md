@@ -1,35 +1,42 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Polupalli+Sunil;Flutter+Developer;Building+AI+Powered+Mobile+Apps;DSA+Learner+in+Java;Always+Learning+New+Technologies" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Polupalli+Sunil;Flutter+Developer;AI+Powered+App+Builder;Java+DSA+Learner;Building+Real+World+Solutions" />
+
 </p>
 
-<h2 align="center">🚀 Flutter Developer | AI App Builder</h2>
+<h1 align="center">🚀 Flutter Developer | AI App Builder</h1>
 
 <p align="center">
+
 📍 Kakinada, India
+📱 Building Mobile Apps with **Flutter + AI**
+🧠 Practicing **Data Structures & Algorithms in Java**
+
 </p>
 
 ---
 
 # 💫 About Me
 
-* 🔭 Currently building **Flutter mobile applications**
-* 🌱 Learning **Advanced Flutter Development**
-* 🧠 Practicing **Data Structures & Algorithms in Java**
-* 👯 Interested in collaborating on **Flutter & AI-powered applications**
-* 💬 Ask me about **Flutter, Firebase, Java, DSA, AI integrations**
-* ⚡ Passionate about building **apps that solve real-world problems**
+* 🔭 Currently developing **Flutter applications**
+* 🌱 Learning **Advanced Flutter Architecture**
+* 🧠 Solving **DSA problems using Java**
+* 🤖 Integrating **AI APIs into mobile apps**
+* 📱 Interested in building **real-world problem solving applications**
 
 ---
 
-# ⚡ Glowing Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,dart,c,html,css,js,flutter,firebase,git,github,vscode&theme=dark"/>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,firebase,git,github,vscode,html,css,js,c&theme=dark" />
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <p align="center">
 
@@ -45,7 +52,7 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -57,18 +64,32 @@
 
 ---
 
-## 🧠 Top Languages
+# 🧠 Most Used Languages
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-polupalli&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunil-polupalli&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunil-polupalli&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://github.com/sunil-polupalli/sunil-polupalli/blob/output/github-snake-dark.svg"/>
+
 </p>
 
 ---
@@ -82,7 +103,7 @@
 </a>
 
 <a href="mailto:polupallisunil999@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://leetcode.com/u/a3644LKAfo/">
@@ -101,18 +122,14 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/sunil-polupalli/sunil-polupalli/blob/output/github-snake-dark.svg)
-
----
-
 # 👀 Profile Views
 
 <p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=sunil-polupalli&color=blueviolet&style=for-the-badge"/>
+
 </p>
 
 ---
 
-⭐ **"Building mobile apps that combine AI and real-world problem solving."**
+⭐ **"Building mobile applications that combine AI with real-world problem solving."**
