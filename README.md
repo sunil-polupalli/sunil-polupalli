@@ -1,21 +1,122 @@
-# 💫 About Me:
-🔭 I’m currently working on **Flutter mobile apps and AI-powered student productivity tools**<br><br>👯 I’m looking to collaborate on **Flutter, AI-integrated apps, and open-source developer tools**<br><br>🤝 I’m looking for help with **scaling Flutter apps, backend architecture, and AI integrations**<br><br>🌱 I’m currently learning **Data Structures & Algorithms in Java and advanced Flutter development**<br><br>💬 Ask me about **Flutter, mobile app architecture, Firebase integration, and beginner-friendly DSA**<br><br>⚡ Fun fact **I enjoy building apps that solve real student problems like exam prep, CGPA planning, and collaborative study tools**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Polupalli+Sunil;Flutter+Developer;Building+AI+Powered+Mobile+Apps;DSA+Learner+in+Java;Always+Learning+New+Technologies" />
+</p>
 
+<h2 align="center">🚀 Flutter Developer | AI App Builder</h2>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/polupalli-sunil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:polupallisunil999@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sunil-polupalli&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sunil-polupalli&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-polupalli&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+📍 Kakinada, India
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sunil-polupalli&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+* 🔭 Currently building **Flutter mobile applications**
+* 🌱 Learning **Advanced Flutter Development**
+* 🧠 Practicing **Data Structures & Algorithms in Java**
+* 👯 Interested in collaborating on **Flutter & AI-powered applications**
+* 💬 Ask me about **Flutter, Firebase, Java, DSA, AI integrations**
+* ⚡ Passionate about building **apps that solve real-world problems**
+
+---
+
+# ⚡ Glowing Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,dart,c,html,css,js,flutter,firebase,git,github,vscode&theme=dark"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<a href="https://github.com/sunil-polupalli/study_mate_app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunil-polupalli&repo=study_mate_app&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/sunil-polupalli/medease">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunil-polupalli&repo=medease&theme=tokyonight" />
+</a>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sunil-polupalli&theme=tokyonight&show_icons=true&hide_border=false" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunil-polupalli&theme=tokyonight&hide_border=false" height="180"/>
+
+</p>
+
+---
+
+# 🧠 Top Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-polupalli&theme=tokyonight&layout=compact"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sunil-polupalli&theme=tokyonight&margin-w=10&margin-h=10"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunil-polupalli&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/polupalli-sunil">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:polupallisunil999@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/u/a3644LKAfo/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.codechef.com/users/class_wish_19">
+<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/polupallisunil91">
+<img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/sunil-polupalli/sunil-polupalli/blob/output/github-snake-dark.svg)
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sunil-polupalli&color=blueviolet&style=for-the-badge"/>
+</p>
+
+---
+
+⭐ **"Building mobile apps that combine AI and real-world problem solving."**
