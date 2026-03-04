@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Polupalli+Sunil;Flutter+Developer;AI+App+Builder;Java+DSA+Learner;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Polupalli+Sunil;Flutter+Developer;Building+AI+Powered+Mobile+Apps;DSA+Learner+in+Java;Always+Learning+New+Technologies" />
 </p>
 
 <h2 align="center">🚀 Flutter Developer | AI App Builder</h2>
@@ -29,35 +29,30 @@
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <p align="center">
-
 <a href="https://github.com/sunil-polupalli/study_mate_app">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sunil-polupalli&repo=study_mate_app&theme=tokyonight"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sunil-polupalli&repo=study_mate_app&theme=tokyonight" width="400"/>
 </a>
 
 <a href="https://github.com/sunil-polupalli/medease">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sunil-polupalli&repo=medease&theme=tokyonight"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sunil-polupalli&repo=medease&theme=tokyonight" width="400"/>
 </a>
-
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sunil-polupalli&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunil-polupalli&theme=tokyonight"/>
-
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sunil-polupalli&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunil-polupalli&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
-# 🧠 Top Languages
+## 🧠 Top Languages
 
 <p align="center">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sunil-polupalli&layout=compact&theme=tokyonight"/>
@@ -65,41 +60,11 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sunil-polupalli&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunil-polupalli&theme=tokyo-night&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunil-polupalli&theme=tokyo-night"/>
 </p>
-
----
-
-# 📊 Developer Dashboard
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunil-polupalli&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sunil-polupalli&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunil-polupalli&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunil-polupalli&theme=tokyonight&utcOffset=5"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/sunil-polupalli/sunil-polupalli/blob/output/github-snake-dark.svg)
 
 ---
 
@@ -128,6 +93,12 @@
 </a>
 
 </p>
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/sunil-polupalli/sunil-polupalli/blob/output/github-snake-dark.svg)
 
 ---
 
