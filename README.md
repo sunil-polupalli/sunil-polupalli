@@ -28,8 +28,11 @@
 # 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,firebase,git,github,vscode,html,css,js,c&theme=dark"/>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,firebase,nodejs,express,mongodb,mysql,npm,git,github,vscode,html,css,js,c&theme=dark"/>
+
 </p>
+
 
 ---
 
