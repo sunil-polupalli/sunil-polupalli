@@ -29,15 +29,19 @@
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
+
+<p align="center">
 
 <a href="https://github.com/sunil-polupalli/study_mate_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunil-polupalli&repo=study_mate_app&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sunil-polupalli&repo=study_mate_app&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/sunil-polupalli/medease">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunil-polupalli&repo=medease&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sunil-polupalli&repo=medease&theme=tokyonight" />
 </a>
+
+</p>
 
 ---
 
@@ -53,18 +57,10 @@
 
 ---
 
-# 🧠 Top Languages
+## 🧠 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-polupalli&theme=tokyonight&layout=compact"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sunil-polupalli&theme=tokyonight&margin-w=10&margin-h=10"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-polupalli&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
