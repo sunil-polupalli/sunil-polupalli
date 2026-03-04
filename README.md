@@ -38,17 +38,20 @@
 
 # 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 <p align="center">
 
 <a href="https://github.com/sunil-polupalli/study_mate_app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sunil-polupalli&repo=study_mate_app&theme=tokyonight&hide_border=true"/>
+<img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sunil-polupalli&repo=study_mate_app&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/sunil-polupalli/medease">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sunil-polupalli&repo=medease&theme=tokyonight&hide_border=true"/>
+<img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sunil-polupalli&repo=medease&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
+
 
 ---
 
