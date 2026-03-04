@@ -32,13 +32,15 @@
 ## 🚀 Featured Projects
 
 <p align="center">
+
 <a href="https://github.com/sunil-polupalli/study_mate_app">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sunil-polupalli&repo=study_mate_app&theme=tokyonight" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sunil-polupalli&repo=study_mate_app&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/sunil-polupalli/medease">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sunil-polupalli&repo=medease&theme=tokyonight" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sunil-polupalli&repo=medease&theme=tokyonight&hide_border=true" />
 </a>
+
 </p>
 
 ---
@@ -46,8 +48,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sunil-polupalli&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunil-polupalli&theme=tokyonight" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sunil-polupalli&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=sunil-polupalli&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -55,7 +60,7 @@
 ## 🧠 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sunil-polupalli&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-polupalli&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -63,7 +68,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunil-polupalli&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunil-polupalli&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ---
