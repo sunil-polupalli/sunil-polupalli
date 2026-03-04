@@ -33,24 +33,21 @@
 
 <p align="center">
 <a href="https://github.com/sunil-polupalli/study_mate_app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sunil-polupalli&repo=study_mate_app&theme=tokyonight&hide_border=true" width="400"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sunil-polupalli&repo=study_mate_app&theme=tokyonight" width="400"/>
 </a>
 
 <a href="https://github.com/sunil-polupalli/medease">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sunil-polupalli&repo=medease&theme=tokyonight&hide_border=true" width="400"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sunil-polupalli&repo=medease&theme=tokyonight" width="400"/>
 </a>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sunil-polupalli&theme=tokyonight&show_icons=true&hide_border=false" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunil-polupalli&theme=tokyonight&hide_border=false" height="180"/>
-
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sunil-polupalli&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunil-polupalli&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -58,7 +55,7 @@
 ## 🧠 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-polupalli&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sunil-polupalli&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
